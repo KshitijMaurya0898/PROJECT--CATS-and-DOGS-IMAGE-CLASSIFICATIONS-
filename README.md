@@ -1,4 +1,4 @@
-## PROJECT--CATS-and-DOGS-IMAGE-CLASSIFICATIONS-
+
 ## PYTHON PROJECT -IMAGE CLASSIFICATION OF CATS AND DOGS USING CNN
 
 ## 🐶🐱 Dog vs Cat Image Classification using CNN (MobileNetV2)
@@ -93,7 +93,7 @@ from tensorflow.keras.models import load_model
 model = load_model("dog_cat_M.h5")
 
 
-
+---
 ## 👨‍💻 Author
 Kshitij
 Machine Learning Student
