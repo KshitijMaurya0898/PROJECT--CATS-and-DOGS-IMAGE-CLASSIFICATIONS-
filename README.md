@@ -8,7 +8,7 @@ Machine Learning Student
 
 IBM Internship Project
 
-## 🐶🐱 Dog vs Cat Image Classification using CNN (MobileNetV2)
+## 🐶🐱 Dog vs Cat Image Classification using CNN 
 
 This project is a Deep Learning Image Classification model that can identify whether an image contains a Dog or a Cat using a Convolutional Neural Network (CNN) with TensorFlow/Keras and MobileNetV2 transfer learning.
 
