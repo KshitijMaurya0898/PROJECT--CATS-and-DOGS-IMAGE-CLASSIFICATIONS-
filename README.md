@@ -1,5 +1,5 @@
 ## PROJECT--CATS-and-DOGS-IMAGE-CLASSIFICATIONS-
-#PYTHON PROJECT -IMAGE CLASSIFICATION OF CATS AND DOGS USING CNN
+## PYTHON PROJECT -IMAGE CLASSIFICATION OF CATS AND DOGS USING CNN
 
 ## 🐶🐱 Dog vs Cat Image Classification using CNN (MobileNetV2)
 
@@ -94,7 +94,7 @@ model = load_model("dog_cat_M.h5")
 
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 Kshitij
 Machine Learning Student
 IBM Internship Project
