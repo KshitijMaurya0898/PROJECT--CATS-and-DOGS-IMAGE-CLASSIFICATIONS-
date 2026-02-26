@@ -1,6 +1,11 @@
 
 ## PYTHON PROJECT -IMAGE CLASSIFICATION OF CATS AND DOGS USING CNN
 
+##  👨‍💻 Author
+Kshitij
+Machine Learning Student
+IBM Internship Project
+
 ## 🐶🐱 Dog vs Cat Image Classification using CNN (MobileNetV2)
 
 This project is a Deep Learning Image Classification model that can identify whether an image contains a Dog or a Cat using a Convolutional Neural Network (CNN) with TensorFlow/Keras and MobileNetV2 transfer learning.
@@ -91,10 +96,3 @@ Load model example:
 from tensorflow.keras.models import load_model
 
 model = load_model("dog_cat_M.h5")
-
-
----
-## 👨‍💻 Author
-Kshitij
-Machine Learning Student
-IBM Internship Project
