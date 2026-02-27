@@ -10,7 +10,7 @@ BCA(AI & ML)
 
 This project is a Deep Learning Image Classification model that can identify whether an image contains a Dog or a Cat using a Convolutional Neural Network (CNN) with TensorFlow/Keras and MobileNetV2 transfer learning.
 
-This project was developed as part of a Machine Learning / IBM Internship project.
+This project was developed as part of a Machine Learning.
 
 ---
 
