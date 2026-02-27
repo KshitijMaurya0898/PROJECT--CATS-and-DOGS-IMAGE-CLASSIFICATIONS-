@@ -2,11 +2,9 @@
 ## PYTHON PROJECT -IMAGE CLASSIFICATION OF CATS AND DOGS USING CNN
 
 ##  👨‍💻 Author
-Kshitij
+Kshitij Maurya
 
-Machine Learning Student
-
-IBM Internship Project
+BCA(AI & ML)
 
 ## 🐶🐱 Dog vs Cat Image Classification using CNN 
 
